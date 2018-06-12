@@ -24,6 +24,6 @@ It is important to note that every new feature added to a system with macaronic 
 ### Exercício 3
 Cria dois vetores auxiliares ordenados e itera por ambos ao mesmo tempo registrando o maior numero de jobs.
 
-### Exercicio 4
+### Exercício 4
 Cria uma função de recursão que é chamada se passando indice da cadeia de caracteres tanto da expressão regular quanto da frase a ser verificada.
 A função trata os casos de caracter qualquer(.) de caracteres simples(ex: abc123) e de loop(indicado por *)
