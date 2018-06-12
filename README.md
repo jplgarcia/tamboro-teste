@@ -8,9 +8,13 @@ Quando a mais rápida chegar ao fim a mais lenta estará na posição do meio.
 In many situations, a revamp is effective. If applied correctly, refactoring improves the maintainability of a system without affecting it’s functionality. This includes the addition of new features, which will be easier to implement.
 
 However, evolving the code may be a better strategy in certain cases, such as: 
+
 -The new set of features does not require the rest of the code to be altered; 
+
 -The legacy code has a clear documentation, and it’s coupled artifacts will not need to be modified;
+
 -The time limit is too short for a full code revamp.
+
 
 Each case should be evaluated based on it’s demands and characteristics in order to decide whether there should be a refactoring process. 
 
